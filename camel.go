@@ -1,6 +1,7 @@
 /*
  * The MIT License (MIT)
  *
+ * Copyright (c) 2024 Comnoco Ltd.
  * Copyright (c) 2015 Ian Coleman
  * Copyright (c) 2018 Ma_124, <github.com/Ma124>
  *

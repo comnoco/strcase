@@ -1,8 +1,8 @@
 # strcase
-[![Godoc Reference](https://godoc.org/github.com/iancoleman/strcase?status.svg)](http://godoc.org/github.com/iancoleman/strcase)
-[![Build Status](https://travis-ci.com/iancoleman/strcase.svg)](https://travis-ci.com/iancoleman/strcase)
-[![Coverage](http://gocover.io/_badge/github.com/iancoleman/strcase?0)](http://gocover.io/github.com/iancoleman/strcase)
-[![Go Report Card](https://goreportcard.com/badge/github.com/iancoleman/strcase)](https://goreportcard.com/report/github.com/iancoleman/strcase)
+[![Godoc Reference](https://godoc.org/github.com/comnoco/strcase?status.svg)](http://godoc.org/github.com/comnoco/strcase)
+[![Build Status](https://travis-ci.com/comnoco/strcase.svg)](https://travis-ci.com/comnoco/strcase)
+[![Coverage](http://gocover.io/_badge/github.com/comnoco/strcase?0)](http://gocover.io/github.com/comnoco/strcase)
+[![Go Report Card](https://goreportcard.com/badge/github.com/comnoco/strcase)](https://goreportcard.com/report/github.com/comnoco/strcase)
 
 strcase is a go package for converting string case to various cases (e.g. [snake case](https://en.wikipedia.org/wiki/Snake_case) or [camel case](https://en.wikipedia.org/wiki/CamelCase)) to see the full conversion table below.
 
@@ -29,7 +29,7 @@ s := "AnyKind of_string"
 ## Install
 
 ```bash
-go get -u github.com/iancoleman/strcase
+go get -u github.com/comnoco/strcase
 ```
 
 ## Custom Acronyms for ToCamel && ToLowerCamel
@@ -42,7 +42,7 @@ To configure your custom acronym globally you can use the following before runni
 
 ```go
 import (
-    "github.com/iancoleman/strcase"
+    "github.com/comnoco/strcase"
 )
 
 func init() {

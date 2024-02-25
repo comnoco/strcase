@@ -1,6 +1,7 @@
 /*
  * The MIT License (MIT)
  *
+ * Copyright (c) 2024 Comnoco Ltd.
  * Copyright (c) 2015 Ian Coleman
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
